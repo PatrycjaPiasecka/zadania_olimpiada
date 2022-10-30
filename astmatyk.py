@@ -5,7 +5,7 @@ peaks = []
 line = input()
 a,b = line.split()
 
-n = int(a)
+n = int(a) #zmiana
 m = int(b)
 
 if n > 1 and n < 100000 and m > 1 and m < 300000:
