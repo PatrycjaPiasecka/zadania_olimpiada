@@ -11,6 +11,7 @@ Celem zadań jest przygotowanie do olimpiady informatycznej oraz poznanie różn
 ### ***Treść zadania***
 
 Bajtazar jest miłośnikiem wycieczek górskich. Niestety cierpi na astmę i gdy wejdzie na zbyt dużą wysokość to zaczyna się dusić. Z tego powodu musi bardzo dokładnie planować swoje wyprawy. Jednak nie jest to proste. Bajtazar posiada bardzo dokładne mapy gór z dziesiątkami tysięcy szlaków, każdy szlak zaczyna się na pewnej wysokości i na jakiejś kończy. Nasz bohater ustalił miejsce skąd wyrusza i dokąd się kieruje jednak przytłoczony ilością informacji za bardzo sobie nie radzi z ułożeniem optymalnej trasy.
+
 ***Autor:*** Piotr Cerobski
 
 ### ***Zadanie***
@@ -34,6 +35,7 @@ połączone z minimum dwoma innymi (w razie uszkodzenia jednej drogi, miasto nie
 dostępu do świata). Połączenie to dwukierunkowe tory pomiędzy jakimiś dwoma miastami. Zarząd
 firmy bez dłuższego namysłu chce wybudować minimalną liczbę nowych połączeń. Ty, jako młody
 pracownik z ambicjami na prezesa firmy chcesz rozwiązać problem.
+
 ***Autor:*** Kacper Omieliańczyk
 
 ### ***Problematyka zadania***
